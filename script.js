@@ -73,7 +73,7 @@ resultado.innerHTML =
 "✅ Correto! A irrigação inteligente reduz desperdícios de água.";
 
 resultado.style.color =
-"#2ecc71";
+"#ffffff";
 
 }else{
 
@@ -81,7 +81,7 @@ resultado.innerHTML =
 "❌ Não é a resposta correta. Tente novamente.";
 
 resultado.style.color =
-"#ff6b6b";
+"#ff0000";
 
 }
 
